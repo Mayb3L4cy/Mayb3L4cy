@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm László</h1>
-- 🌱 I’m currently learning **Software Development, Game Development**
+- 🌱 I’m currently learning <b>Software Development, Game Development</b>
+- 🏫 I'm currently a High School student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
