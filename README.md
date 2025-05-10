@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning <b>Software Development, Game Development</b>
 - 🏫 I'm currently a High School student
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Currently working on:</h3>
+<p align="left">A personal project, for my future cv
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
