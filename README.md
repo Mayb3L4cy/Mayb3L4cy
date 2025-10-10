@@ -3,7 +3,7 @@
 <br>- 🏫 I'm currently a High School student
 
 <h3 align="left">Currently working on:</h3>
-<p align="left">A personal project, for my future cv
+<p align="left">Mostly school projects, some personal projects
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
